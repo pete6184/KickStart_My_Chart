@@ -1,4 +1,9 @@
 # KickStarter_Analysis
+
+## Requirements
+The only program this challenge required was Microsoft Excel. I have used Excel frequently in my life and didn't have many challenges with this assignment. I did need a little refresher on pivot tables and some of the functions (mainly COUNTIF), conditional formatting, and pivot tables. Since I have worked with all of these elements in the past they came back to my pretty quickly.
+
+
 ## Background
 
 Over $2 billion has been raised using the massively successful crowdfunding service, Kickstarter, but not every project has found success. Of the more than 300,000 projects launched on Kickstarter, only a third have made it through the funding process with a positive outcome.
