@@ -1,7 +1,7 @@
 # KickStart_My_Chart
 
 ## Requirements & Summary
-The only program this challenge required was Microsoft Excel. I have used Excel frequently in my life and didn't have many challenges with this assignment. I did need a little refresher on pivot tables and some of the functions (mainly COUNTIF), conditional formatting, and pivot tables. Since I have worked with all of these elements in the past they came back to my pretty quickly.
+The only program this challenge required was Microsoft Excel. 
 
 
 ## Background
@@ -44,8 +44,10 @@ Instructions
 - Now create a pivot chart line graph that visualizes this new table.
 
 
-Create a report in Microsoft Word and answer the following questions.
+![image1](https://user-images.githubusercontent.com/74940976/118373363-46453180-b56b-11eb-8483-8981b1a44e4c.PNG)
 
-1. Given the provided data, what are three conclusions we can draw about Kickstarter campaigns?
-2. What are some limitations of this dataset?
-3. What are some other possible tables and/or graphs that we could create?
+![image2](https://user-images.githubusercontent.com/74940976/118373366-49d8b880-b56b-11eb-8e7b-86f3524daba9.PNG)
+
+![image3](https://user-images.githubusercontent.com/74940976/118373369-4d6c3f80-b56b-11eb-81b1-6162f0bbdbe3.PNG)
+
+![image4](https://user-images.githubusercontent.com/74940976/118373370-4fce9980-b56b-11eb-877f-3749ff683a85.PNG)
